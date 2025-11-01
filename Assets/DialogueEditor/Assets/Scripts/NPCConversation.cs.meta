@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 83189876d4d389f43b7dd2e925aa112e
+AssetOrigin:
+  serializedVersion: 1
+  productId: 168329
+  packageName: Dialogue Editor
+  packageVersion: 1.1.07
+  assetPath: Assets/DialogueEditor/Assets/Scripts/NPCConversation.cs
+  uploadId: 542877
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - DefaultSprite: {instanceID: 0}
+  - DefaultFont: {fileID: 11400000, guid: 4bf7186ccb610544b879c4b91e6d8c79, type: 2}
+  - ContinueFont: {instanceID: 0}
+  - EndConversationFont: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
